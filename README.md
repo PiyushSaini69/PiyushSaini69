@@ -49,8 +49,9 @@ I'm a passionate **Full Stack Developer** 🚀 | **AI & Web Enthusiast** 🤖 | 
   - Browse trending and popular movies  
   - Search movies by name  
   - Download movies directly from the platform  
-  - User-friendly and responsive design for all devices  
-- [Live Demo](https://movie-project-frontend-u8uu.onrender.com/) | [GitHub Repo](https://github.com/DheerajSaini0001/Movie_Project.git)
+  - User-friendly and responsive design for all devices
+- **Live Demo:** [Visit Portfolio](https://movie-project-frontend-u8uu.onrender.com/)  
+- **GitHub Repo:** [Portfolio Website](https://github.com/DheerajSaini0001/Movie_Project.git)
 
 ### 2. **Portfolio Website**
 - **Tech Stack:** React, TailwindCSS 
