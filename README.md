@@ -57,7 +57,7 @@ I'm a passionate **Full Stack Developer** 🚀 | **AI & Web Enthusiast** 🤖 | 
 - **Tech Stack:** React, TailwindCSS 
 - **Description:** Personal portfolio to showcase projects, skills, and contact info.  
 - **Live Demo:** [Visit Portfolio](https://piyush-portfolio-dev.onrender.com/)  
-- **GitHub Repo:** [Portfolio Website](https://github.com/PiyushSaini69/Portfolio.git)
+- **GitHub Repo:** [Portfolio Website](https://github.com/PiyushSaini69/Portfolio)
   
 ### 3. **Website Performance Checker** 🌐⚡
 - **Tech Stack:** React.js, TailwindCSS, Node.js, Express.js, PageSpeed Insights API  
