@@ -24,7 +24,7 @@
 ```javascript
 const piyush = {
     location: "India 🇮🇳",
-    currentFocus: "Full Stack Web Applications & AI Projects",
+    currentFocus: "Full Stack Web Applications and AI Projects",
     learning: ["Advanced React Patterns", "AI/ML Integration", "Cloud Architecture"],
     collaboration: "Open Source Projects and Innovative Web Apps",
     askMeAbout: ["JavaScript", "React", "Node.js", "Python", "Data Analysis"],
@@ -35,7 +35,7 @@ const piyush = {
 
 <div align="center">
 
-### � What I Do
+### 💼 What I Do
 
 🔭 Building **scalable full-stack applications** with modern tech stacks  
 👯 Contributing to **open source** and collaborating on innovative projects  
@@ -196,10 +196,18 @@ Interactive Netflix content analysis
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PiyushSaini69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaini69&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" width="48%" />
+<a href="https://github.com/PiyushSaini69">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiyushSaini69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaini69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&langs_count=8"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaini69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7" width="48%" />
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaini69&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=PiyushSaini69&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 
 </div>
 
