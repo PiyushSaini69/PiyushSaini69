@@ -192,26 +192,6 @@ Interactive Netflix content analysis
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/PiyushSaini69">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PiyushSaini69&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PiyushSaini69&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&langs_count=8"/>
-</a>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PiyushSaini69&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7" />
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=PiyushSaini69&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
-
----
 
 ## � Current Focus
 
